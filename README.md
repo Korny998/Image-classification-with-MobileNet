@@ -19,7 +19,6 @@ Key features:
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Requirements](#requirements)
 - [Model Architecture](#model-architecture)
 - [Dataset](#dataset)
 
